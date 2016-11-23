@@ -73,7 +73,7 @@ Instructions on how to set up sTPM on Windows IoT Core are available [here][3].
 [4]: http://www.infineon.com/cms/en/product/security-ic/trusted-computing/channel.html?channel=db3a30433efacd9a013f10d2a7264daa "Infineon"
 [5]: http://www.trustedcomputinggroup.org/nationz-technologies-inc "NationZ"
 [6]: https://www.nuvoton.com/hq/products/cloud-computing/security/trusted-platform-module-tpm "Nuvoton"
-[7]: http://www.st.com/web/en/catalog/mmc/FM143/CL1814/SC1522 "STMicro"
+[7]: http://www.st.com/tpm "STMicro"
 
 *[TBS]: TPM Base Services
 *[TCG]: Trusted Computing Group
